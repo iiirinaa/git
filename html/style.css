@@ -3,6 +3,32 @@ body
   font-size: 20px;
 }
  h1{
-    font-size: 40px;
+    font-size: 30px;
+    text-align: center;
  }
- h2 {font-size: 40px}
+ h2 {font-size: 30px;
+  text-align: center;
+}
+ .colorrgb
+ {
+    color:rgb(141, 87, 192);
+ }
+
+ #colorrgb2
+ {
+    color:rgb(53, 110, 170)
+ }
+
+ .colorblue
+ {
+  color:blue;
+ }
+
+ .colorgr
+ {
+    color:green;
+ }
+
+ a {
+  color:red;
+ }
